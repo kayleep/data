@@ -1,4 +1,0 @@
-data
-====
-
-NYU Data Journalism
